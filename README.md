@@ -55,6 +55,3 @@ To fix a bug or enhance an existing code, follow these steps:
 - Commit your changes (`git commit -am 'Improve feature'`)
 - Push to the branch (`git push origin improve-feature`)
 - Create a Pull Request
-
-## License
-MIT © [MD Ahad Hasan](https://github.com/joker666)
